@@ -18,3 +18,4 @@ End-to-end Data Engineering and Machine Learning project focused on supply chain
 ## 🛠️ Tech Stack
 - **Database:** SQLite3 / SQL
 - **Language & Libraries:** Python 3.14, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+![Visualización del Análisis](./output_4_1.png)
